@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/finskblivningsfest/precache-manifest.10a32bf45ee43dd2361400114bc84523.js"
+  "/finskblivningsfest/precache-manifest.73d76d1022e3a1d52db7636642534f44.js"
 );
 
 self.addEventListener('message', (event) => {
